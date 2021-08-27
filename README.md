@@ -1,6 +1,6 @@
-### react-ecom-cart-flow
+##### react-ecom-cart-flow
 
 React Tools:
 ------------------
-Hooks(useState, useEffect, useReducer, useRef, useContext) 
-Context API
+React Context API and React Hooks(useState, useEffect, useReducer, useRef, useContext) 
+
